@@ -1,0 +1,604 @@
+ID,Name,Rarity,Type,Affiliation,Fire Power,Health,Anti-Air,Evasion,Aviation,Torpedo,Link
+001,Universal Bulin,Elite,Destroyer,Universal,23,232,23,116,23,23,https://azurlane.koumakan.jp/wiki/Universal_Bulin
+002,Prototype Bulin MKII,Super Rare,Destroyer,Universal,23,232,23,116,23,23,https://azurlane.koumakan.jp/wiki/Prototype_Bulin_MKII
+003,Specialized Bulin Custom MKIII,Ultra Rare,Destroyer,Universal,23,232,23,116,23,23,https://azurlane.koumakan.jp/wiki/Specialized_Bulin_Custom_MKIII
+004,Dewey,Rare,Destroyer,Eagle Union,74,1647,185,204,0,279,https://azurlane.koumakan.jp/wiki/Dewey
+005,Cassin,Normal,Destroyer,Eagle Union,76,1735,168,204,0,283,https://azurlane.koumakan.jp/wiki/Cassin
+006,Downes,Normal,Destroyer,Eagle Union,76,1735,168,204,0,283,https://azurlane.koumakan.jp/wiki/Downes
+007,Gridley,Rare,Destroyer,Eagle Union,73,1810,174,205,0,438,https://azurlane.koumakan.jp/wiki/Gridley
+008,Craven,Normal,Destroyer,Eagle Union,72,1775,171,205,0,429,https://azurlane.koumakan.jp/wiki/Craven
+009,McCall,Normal,Destroyer,Eagle Union,72,1724,171,204,0,429,https://azurlane.koumakan.jp/wiki/McCall
+010,Maury,Elite,Destroyer,Eagle Union,76,1809,178,248,0,448,https://azurlane.koumakan.jp/wiki/Maury
+011,Fletcher,Rare,Destroyer,Eagle Union,85,2077,172,201,0,283,https://azurlane.koumakan.jp/wiki/Fletcher
+013,Charles Ausburne,Elite,Destroyer,Eagle Union,87,2113,178,199,0,291,https://azurlane.koumakan.jp/wiki/Charles_Ausburne
+014,Thatcher,Rare,Destroyer,Eagle Union,85,2037,172,199,0,283,https://azurlane.koumakan.jp/wiki/Thatcher
+015,Aulick,Normal,Destroyer,Eagle Union,83,1998,171,199,0,279,https://azurlane.koumakan.jp/wiki/Aulick
+016,Foote,Normal,Destroyer,Eagle Union,83,1998,171,199,0,279,https://azurlane.koumakan.jp/wiki/Foote
+017,Spence,Normal,Destroyer,Eagle Union,83,1998,171,199,0,279,https://azurlane.koumakan.jp/wiki/Spence
+018,Benson,Rare,Destroyer,Eagle Union,87,1826,172,205,0,320,https://azurlane.koumakan.jp/wiki/Benson
+019,Laffey,Elite,Destroyer,Eagle Union,101,1980,176,205,0,302,https://azurlane.koumakan.jp/wiki/Laffey
+026,Sims,Rare,Destroyer,Eagle Union,81,1815,172,200,0,286,https://azurlane.koumakan.jp/wiki/Sims
+027,Hammann,Rare,Destroyer,Eagle Union,81,1815,172,200,0,286,https://azurlane.koumakan.jp/wiki/Hammann
+028,Eldridge,Super Rare,Destroyer,Eagle Union,81,1720,183,264,0,381,https://azurlane.koumakan.jp/wiki/Eldridge
+029,Omaha,Normal,Light Cruiser,Eagle Union,142,3237,281,124,0,207,https://azurlane.koumakan.jp/wiki/Omaha
+030,Raleigh,Normal,Light Cruiser,Eagle Union,142,3237,281,124,0,207,https://azurlane.koumakan.jp/wiki/Raleigh
+031,Brooklyn,Rare,Light Cruiser,Eagle Union,164,3470,307,103,0,0,https://azurlane.koumakan.jp/wiki/Brooklyn
+032,Phoenix,Rare,Light Cruiser,Eagle Union,164,3470,307,103,0,0,https://azurlane.koumakan.jp/wiki/Phoenix
+033,Helena,Elite,Light Cruiser,Eagle Union,171,3604,316,103,0,0,https://azurlane.koumakan.jp/wiki/Helena
+034,Atlanta,Rare,Light Cruiser,Eagle Union,129,3517,422,109,0,157,https://azurlane.koumakan.jp/wiki/Atlanta
+035,Juneau,Rare,Light Cruiser,Eagle Union,129,3517,422,109,0,157,https://azurlane.koumakan.jp/wiki/Juneau
+036,San Diego,Super Rare,Light Cruiser,Eagle Union,137,3756,449,109,0,168,https://azurlane.koumakan.jp/wiki/San_Diego
+037,Cleveland,Elite,Light Cruiser,Eagle Union,165,4307,323,106,0,0,https://azurlane.koumakan.jp/wiki/Cleveland
+038,Columbia,Elite,Light Cruiser,Eagle Union,168,4307,323,106,0,0,https://azurlane.koumakan.jp/wiki/Columbia
+039,Pensacola,Normal,Heavy Cruiser,Eagle Union,232,3290,198,55,0,0,https://azurlane.koumakan.jp/wiki/Pensacola
+040,Salt Lake City,Normal,Heavy Cruiser,Eagle Union,232,3290,198,55,0,0,https://azurlane.koumakan.jp/wiki/Salt_Lake_City
+041,Northampton,Rare,Heavy Cruiser,Eagle Union,240,3346,204,53,0,0,https://azurlane.koumakan.jp/wiki/Northampton
+042,Chicago,Rare,Heavy Cruiser,Eagle Union,240,3393,204,53,0,0,https://azurlane.koumakan.jp/wiki/Chicago
+043,Houston,Elite,Heavy Cruiser,Eagle Union,246,3445,211,53,0,0,https://azurlane.koumakan.jp/wiki/Houston
+044,Portland,Rare,Heavy Cruiser,Eagle Union,204,4565,245,59,0,0,https://azurlane.koumakan.jp/wiki/Portland
+045,Indianapolis,Elite,Heavy Cruiser,Eagle Union,210,4734,252,59,0,0,https://azurlane.koumakan.jp/wiki/Indianapolis
+046,Astoria,Elite,Heavy Cruiser,Eagle Union,218,3881,226,57,0,0,https://azurlane.koumakan.jp/wiki/Astoria
+047,Quincy,Elite,Heavy Cruiser,Eagle Union,218,4015,230,57,0,0,https://azurlane.koumakan.jp/wiki/Quincy
+048,Vincennes,Elite,Heavy Cruiser,Eagle Union,218,4015,230,57,0,0,https://azurlane.koumakan.jp/wiki/Vincennes
+049,Wichita,Elite,Heavy Cruiser,Eagle Union,267,3709,222,50,0,0,https://azurlane.koumakan.jp/wiki/Wichita
+050,Baltimore,Super Rare,Heavy Cruiser,Eagle Union,270,4591,260,57,0,0,https://azurlane.koumakan.jp/wiki/Baltimore
+052,Nevada,Normal,Battleship,Eagle Union,378,6974,202,26,0,0,https://azurlane.koumakan.jp/wiki/Nevada
+053,Oklahoma,Normal,Battleship,Eagle Union,378,6956,202,26,0,0,https://azurlane.koumakan.jp/wiki/Oklahoma
+054,Pennsylvania,Rare,Battleship,Eagle Union,390,7194,212,27,0,0,https://azurlane.koumakan.jp/wiki/Pennsylvania
+055,Arizona,Elite,Battleship,Eagle Union,400,7137,219,27,0,0,https://azurlane.koumakan.jp/wiki/Arizona
+058,Tennessee,Rare,Battleship,Eagle Union,391,7385,211,28,0,0,https://azurlane.koumakan.jp/wiki/Tennessee
+059,California,Rare,Battleship,Eagle Union,391,7385,211,28,0,0,https://azurlane.koumakan.jp/wiki/California
+060,Colorado,Elite,Battleship,Eagle Union,409,7456,216,30,0,0,https://azurlane.koumakan.jp/wiki/Colorado
+061,Maryland,Elite,Battleship,Eagle Union,405,7514,216,30,0,0,https://azurlane.koumakan.jp/wiki/Maryland
+062,West Virginia,Elite,Battleship,Eagle Union,409,7456,216,30,0,0,https://azurlane.koumakan.jp/wiki/West_Virginia
+063,North Carolina,Super Rare,Battleship,Eagle Union,421,7852,400,33,0,0,https://azurlane.koumakan.jp/wiki/North_Carolina
+064,Washington,Super Rare,Battleship,Eagle Union,421,8080,400,33,0,0,https://azurlane.koumakan.jp/wiki/Washington
+065,South Dakota,Super Rare,Battleship,Eagle Union,414,8031,400,33,0,0,https://azurlane.koumakan.jp/wiki/South_Dakota
+068,New Jersey,Ultra Rare,Battleship,Eagle Union,447,9520,430,39,0,0,https://azurlane.koumakan.jp/wiki/New_Jersey
+070,Long Island,Rare,Light Aircraft Carrier,Eagle Union,0,4691,257,66,281,0,https://azurlane.koumakan.jp/wiki/Long_Island
+071,Bogue,Normal,Light Aircraft Carrier,Eagle Union,0,3953,252,67,279,0,https://azurlane.koumakan.jp/wiki/Bogue
+072,Langley,Normal,Light Aircraft Carrier,Eagle Union,0,4460,245,80,204,0,https://azurlane.koumakan.jp/wiki/Langley
+073,Lexington,Elite,Aircraft Carrier,Eagle Union,0,6912,303,57,397,0,https://azurlane.koumakan.jp/wiki/Lexington
+074,Saratoga,Elite,Aircraft Carrier,Eagle Union,0,6912,303,57,397,0,https://azurlane.koumakan.jp/wiki/Saratoga
+075,Ranger,Normal,Light Aircraft Carrier,Eagle Union,0,4779,248,73,240,0,https://azurlane.koumakan.jp/wiki/Ranger
+076,Yorktown,Elite,Aircraft Carrier,Eagle Union,0,5797,317,55,396,0,https://azurlane.koumakan.jp/wiki/Yorktown
+077,Enterprise,Super Rare,Aircraft Carrier,Eagle Union,0,6193,329,62,430,0,https://azurlane.koumakan.jp/wiki/Enterprise
+078,Hornet,Elite,Aircraft Carrier,Eagle Union,0,5823,307,55,401,0,https://azurlane.koumakan.jp/wiki/Hornet
+079,Wasp,Rare,Aircraft Carrier,Eagle Union,0,4894,272,51,330,0,https://azurlane.koumakan.jp/wiki/Wasp
+080,Vestal,Elite,Repair Ship,Eagle Union,50,4624,152,43,0,0,https://azurlane.koumakan.jp/wiki/Vestal
+081,Amazon,Rare,Destroyer,Royal Navy,65,1370,154,264,0,360,https://azurlane.koumakan.jp/wiki/Amazon
+082,Acasta,Rare,Destroyer,Royal Navy,68,1370,154,262,0,360,https://azurlane.koumakan.jp/wiki/Acasta
+083,Ardent,Rare,Destroyer,Royal Navy,68,1370,154,262,0,360,https://azurlane.koumakan.jp/wiki/Ardent
+086,Beagle,Normal,Destroyer,Royal Navy,65,1349,150,262,0,355,https://azurlane.koumakan.jp/wiki/Beagle
+087,Bulldog,Normal,Destroyer,Royal Navy,65,1349,150,262,0,355,https://azurlane.koumakan.jp/wiki/Bulldog
+088,Comet,Normal,Destroyer,Royal Navy,68,1360,150,262,0,350,https://azurlane.koumakan.jp/wiki/Comet
+089,Crescent,Normal,Destroyer,Royal Navy,68,1360,150,262,0,350,https://azurlane.koumakan.jp/wiki/Crescent
+090,Cygnet,Normal,Destroyer,Royal Navy,68,1360,150,262,0,350,https://azurlane.koumakan.jp/wiki/Cygnet
+091,Foxhound,Normal,Destroyer,Royal Navy,71,1373,150,262,0,350,https://azurlane.koumakan.jp/wiki/Foxhound
+092,Fortune,Rare,Destroyer,Royal Navy,72,1402,154,262,0,357,https://azurlane.koumakan.jp/wiki/Fortune
+093,Grenville,Elite,Destroyer,Royal Navy,85,1518,165,262,0,365,https://azurlane.koumakan.jp/wiki/Grenville
+094,Glowworm,Elite,Destroyer,Royal Navy,79,1412,165,262,0,370,https://azurlane.koumakan.jp/wiki/Glowworm
+096,Hardy,Elite,Destroyer,Royal Navy,81,1518,157,262,0,374,https://azurlane.koumakan.jp/wiki/Hardy
+100,Hunter,Rare,Destroyer,Royal Navy,76,1370,156,262,0,356,https://azurlane.koumakan.jp/wiki/Hunter
+101,Javelin,Elite,Destroyer,Royal Navy,80,1581,160,262,0,374,https://azurlane.koumakan.jp/wiki/Javelin
+102,Juno,Rare,Destroyer,Royal Navy,76,1536,156,262,0,364,https://azurlane.koumakan.jp/wiki/Juno
+103,Vampire,Elite,Destroyer,Royal Navy,71,1314,156,245,0,376,https://azurlane.koumakan.jp/wiki/Vampire
+104,Leander,Normal,Light Cruiser,Royal Navy,146,3247,321,124,0,270,https://azurlane.koumakan.jp/wiki/Leander
+105,Achilles,Rare,Light Cruiser,Royal Navy,163,2974,295,111,0,324,https://azurlane.koumakan.jp/wiki/Achilles
+106,Ajax,Rare,Light Cruiser,Royal Navy,163,2974,295,111,0,324,https://azurlane.koumakan.jp/wiki/Ajax
+107,Dido,Super Rare,Light Cruiser,Royal Navy,157,3744,387,111,0,178,https://azurlane.koumakan.jp/wiki/Dido
+110,Southampton,Rare,Light Cruiser,Royal Navy,151,3688,307,115,0,273,https://azurlane.koumakan.jp/wiki/Southampton
+111,Sheffield,Elite,Light Cruiser,Royal Navy,156,3796,351,115,0,295,https://azurlane.koumakan.jp/wiki/Sheffield
+113,Gloucester,Elite,Light Cruiser,Royal Navy,156,3789,317,115,0,281,https://azurlane.koumakan.jp/wiki/Gloucester
+114,Edinburgh,Elite,Light Cruiser,Royal Navy,157,4486,313,115,0,281,https://azurlane.koumakan.jp/wiki/Edinburgh
+115,Belfast,Super Rare,Light Cruiser,Royal Navy,179,3970,293,110,0,340,https://azurlane.koumakan.jp/wiki/Belfast
+116,Arethusa,Rare,Light Cruiser,Royal Navy,156,2830,324,115,0,270,https://azurlane.koumakan.jp/wiki/Arethusa
+117,Galatea,Rare,Light Cruiser,Royal Navy,156,2830,324,115,0,270,https://azurlane.koumakan.jp/wiki/Galatea
+118,Aurora,Elite,Light Cruiser,Royal Navy,162,2914,334,115,0,279,https://azurlane.koumakan.jp/wiki/Aurora
+119,London,Elite,Heavy Cruiser,Royal Navy,223,3561,212,67,0,223,https://azurlane.koumakan.jp/wiki/London
+120,Shropshire,Rare,Heavy Cruiser,Royal Navy,218,3461,208,67,0,215,https://azurlane.koumakan.jp/wiki/Shropshire
+121,Kent,Rare,Heavy Cruiser,Royal Navy,218,3508,208,65,0,215,https://azurlane.koumakan.jp/wiki/Kent
+122,Suffolk,Rare,Heavy Cruiser,Royal Navy,218,3474,208,65,0,215,https://azurlane.koumakan.jp/wiki/Suffolk
+123,Norfolk,Rare,Heavy Cruiser,Royal Navy,178,4621,242,68,0,141,https://azurlane.koumakan.jp/wiki/Norfolk
+124,Dorsetshire,Elite,Heavy Cruiser,Royal Navy,182,4755,250,68,0,245,https://azurlane.koumakan.jp/wiki/Dorsetshire
+125,York,Elite,Heavy Cruiser,Royal Navy,226,3676,243,72,0,193,https://azurlane.koumakan.jp/wiki/York
+126,Exeter,Elite,Heavy Cruiser,Royal Navy,226,3705,243,72,0,193,https://azurlane.koumakan.jp/wiki/Exeter
+127,Renown,Elite,Battlecruiser,Royal Navy,376,6207,276,37,0,0,https://azurlane.koumakan.jp/wiki/Renown
+128,Repulse,Rare,Battlecruiser,Royal Navy,355,6032,268,35,0,0,https://azurlane.koumakan.jp/wiki/Repulse
+129,Hood,Super Rare,Battlecruiser,Royal Navy,343,8445,323,37,0,0,https://azurlane.koumakan.jp/wiki/Hood
+130,Queen Elizabeth,Elite,Battleship,Royal Navy,403,7512,212,33,0,0,https://azurlane.koumakan.jp/wiki/Queen_Elizabeth
+131,Warspite,Super Rare,Battleship,Royal Navy,426,7783,220,33,0,0,https://azurlane.koumakan.jp/wiki/Warspite
+132,Nelson,Elite,Battleship,Royal Navy,407,7654,219,33,0,0,https://azurlane.koumakan.jp/wiki/Nelson
+133,Rodney,Elite,Battleship,Royal Navy,407,7630,219,31,0,0,https://azurlane.koumakan.jp/wiki/Rodney
+134,King George V,Super Rare,Battleship,Royal Navy,423,7970,264,35,0,0,https://azurlane.koumakan.jp/wiki/King_George_V
+135,Prince of Wales,Super Rare,Battleship,Royal Navy,422,7967,230,35,0,0,https://azurlane.koumakan.jp/wiki/Prince_of_Wales
+136,Duke of York,Super Rare,Battleship,Royal Navy,421,7967,225,35,0,0,https://azurlane.koumakan.jp/wiki/Duke_of_York
+140,Hermes,Normal,Light Aircraft Carrier,Royal Navy,0,4158,247,67,281,0,https://azurlane.koumakan.jp/wiki/Hermes
+142,Unicorn,Elite,Light Aircraft Carrier,Royal Navy,0,5337,268,66,307,0,https://azurlane.koumakan.jp/wiki/Unicorn
+143,Eagle,Elite,Aircraft Carrier,Royal Navy,215,6193,307,47,370,0,https://azurlane.koumakan.jp/wiki/Eagle
+144,Ark Royal,Elite,Aircraft Carrier,Royal Navy,0,6107,307,53,400,0,https://azurlane.koumakan.jp/wiki/Ark_Royal
+145,Illustrious,Super Rare,Aircraft Carrier,Royal Navy,0,6561,297,53,400,0,https://azurlane.koumakan.jp/wiki/Illustrious
+146,Victorious,Super Rare,Aircraft Carrier,Royal Navy,0,6262,289,53,410,0,https://azurlane.koumakan.jp/wiki/Victorious
+147,Formidable,Super Rare,Aircraft Carrier,Royal Navy,0,6481,289,51,413,0,https://azurlane.koumakan.jp/wiki/Formidable
+148,Glorious,Elite,Aircraft Carrier,Royal Navy,0,6313,292,51,360,0,https://azurlane.koumakan.jp/wiki/Glorious
+149,Erebus,Elite,Monitor,Royal Navy,282,3642,171,61,0,0,https://azurlane.koumakan.jp/wiki/Erebus
+150,Terror,Elite,Monitor,Royal Navy,282,3642,171,61,0,0,https://azurlane.koumakan.jp/wiki/Terror
+151,Fubuki,Elite,Destroyer,Sakura Empire,62,1798,146,239,0,509,https://azurlane.koumakan.jp/wiki/Fubuki
+152,Shirayuki,Elite,Destroyer,Sakura Empire,68,1798,146,244,0,508,https://azurlane.koumakan.jp/wiki/Shirayuki
+155,Ayanami,Elite,Destroyer,Sakura Empire,65,1798,146,244,0,509,https://azurlane.koumakan.jp/wiki/Ayanami
+159,Akatsuki,Rare,Destroyer,Sakura Empire,60,1747,150,244,0,493,https://azurlane.koumakan.jp/wiki/Akatsuki
+160,Hibiki,Elite,Destroyer,Sakura Empire,62,1798,154,244,0,524,https://azurlane.koumakan.jp/wiki/Hibiki
+161,Ikazuchi,Rare,Destroyer,Sakura Empire,60,1747,150,244,0,493,https://azurlane.koumakan.jp/wiki/Ikazuchi
+162,Inazuma,Rare,Destroyer,Sakura Empire,60,1747,150,244,0,493,https://azurlane.koumakan.jp/wiki/Inazuma
+163,Shiratsuyu,Rare,Destroyer,Sakura Empire,65,1713,150,239,0,509,https://azurlane.koumakan.jp/wiki/Shiratsuyu
+164,Yuudachi,Super Rare,Destroyer,Sakura Empire,70,1828,157,239,0,545,https://azurlane.koumakan.jp/wiki/Yuudachi
+165,Shigure,Elite,Destroyer,Sakura Empire,65,1763,150,239,0,524,https://azurlane.koumakan.jp/wiki/Shigure
+166,Yukikaze,Super Rare,Destroyer,Sakura Empire,68,2226,161,241,0,526,https://azurlane.koumakan.jp/wiki/Yukikaze
+167,Kagerou,Rare,Destroyer,Sakura Empire,65,1885,150,241,0,512,https://azurlane.koumakan.jp/wiki/Kagerou
+168,Shiranui,Normal,Destroyer,Sakura Empire,64,1848,145,241,0,502,https://azurlane.koumakan.jp/wiki/Shiranui
+170,Nowaki,Elite,Destroyer,Sakura Empire,65,2145,154,239,0,526,https://azurlane.koumakan.jp/wiki/Nowaki
+171,Hatsuharu,Rare,Destroyer,Sakura Empire,59,1773,145,241,0,478,https://azurlane.koumakan.jp/wiki/Hatsuharu
+173,Wakaba,Rare,Destroyer,Sakura Empire,59,1773,145,241,0,478,https://azurlane.koumakan.jp/wiki/Wakaba
+174,Hatsushimo,Rare,Destroyer,Sakura Empire,59,1773,145,241,0,478,https://azurlane.koumakan.jp/wiki/Hatsushimo
+175,Ariake,Rare,Destroyer,Sakura Empire,59,1773,145,241,0,478,https://azurlane.koumakan.jp/wiki/Ariake
+176,Yuugure,Rare,Destroyer,Sakura Empire,59,1619,145,243,0,478,https://azurlane.koumakan.jp/wiki/Yuugure
+177,Kuroshio,Rare,Destroyer,Sakura Empire,65,2083,150,239,0,512,https://azurlane.koumakan.jp/wiki/Kuroshio
+178,Oyashio,Rare,Destroyer,Sakura Empire,65,2083,150,239,0,512,https://azurlane.koumakan.jp/wiki/Oyashio
+179,Yuubari,Elite,Light Cruiser,Sakura Empire,131,2177,307,120,0,276,https://azurlane.koumakan.jp/wiki/Yuubari
+182,Nagara,Normal,Light Cruiser,Sakura Empire,140,2891,278,128,0,279,https://azurlane.koumakan.jp/wiki/Nagara
+183,Isuzu,Rare,Light Cruiser,Sakura Empire,120,3214,343,115,0,220,https://azurlane.koumakan.jp/wiki/Isuzu
+185,Yura,Elite,Light Cruiser,Sakura Empire,146,2898,303,120,0,292,https://azurlane.koumakan.jp/wiki/Yura
+186,Kinu,Elite,Light Cruiser,Sakura Empire,148,2886,304,120,0,289,https://azurlane.koumakan.jp/wiki/Kinu
+187,Abukuma,Normal,Light Cruiser,Sakura Empire,140,2891,278,128,0,279,https://azurlane.koumakan.jp/wiki/Abukuma
+188,Mogami,Elite,Light Cruiser,Sakura Empire,201,4015,186,82,0,186,https://azurlane.koumakan.jp/wiki/Mogami
+189,Mikuma,Elite,Light Cruiser,Sakura Empire,201,4015,186,82,0,187,https://azurlane.koumakan.jp/wiki/Mikuma
+190,Furutaka,Normal,Heavy Cruiser,Sakura Empire,215,3439,161,75,0,190,https://azurlane.koumakan.jp/wiki/Furutaka
+191,Kako,Normal,Heavy Cruiser,Sakura Empire,215,3439,161,75,0,190,https://azurlane.koumakan.jp/wiki/Kako
+192,Aoba,Normal,Heavy Cruiser,Sakura Empire,215,3527,167,76,0,190,https://azurlane.koumakan.jp/wiki/Aoba
+193,Kinugasa,Normal,Heavy Cruiser,Sakura Empire,215,3527,167,76,0,190,https://azurlane.koumakan.jp/wiki/Kinugasa
+195,Chikuma,Super Rare,Heavy Cruiser,Sakura Empire,263,4392,189,75,0,248,https://azurlane.koumakan.jp/wiki/Chikuma
+196,Myoukou,Rare,Heavy Cruiser,Sakura Empire,196,5220,193,78,0,150,https://azurlane.koumakan.jp/wiki/Myoukou
+197,Nachi,Rare,Heavy Cruiser,Sakura Empire,196,5220,193,78,0,150,https://azurlane.koumakan.jp/wiki/Nachi
+198,Ashigara,Elite,Heavy Cruiser,Sakura Empire,234,4162,171,75,0,223,https://azurlane.koumakan.jp/wiki/Ashigara
+200,Takao,Super Rare,Heavy Cruiser,Sakura Empire,270,4295,178,79,0,245,https://azurlane.koumakan.jp/wiki/Takao
+201,Atago,Super Rare,Heavy Cruiser,Sakura Empire,270,4295,178,79,0,245,https://azurlane.koumakan.jp/wiki/Atago
+202,Maya,Super Rare,Heavy Cruiser,Sakura Empire,270,4295,178,79,0,245,https://azurlane.koumakan.jp/wiki/Maya
+203,Choukai,Super Rare,Heavy Cruiser,Sakura Empire,261,4295,178,79,0,221,https://azurlane.koumakan.jp/wiki/Choukai
+204,Kongou,Elite,Battlecruiser,Sakura Empire,367,6604,273,37,0,0,https://azurlane.koumakan.jp/wiki/Kongou
+205,Hiei,Elite,Battlecruiser,Sakura Empire,367,6604,273,37,0,0,https://azurlane.koumakan.jp/wiki/Hiei
+206,Haruna,Elite,Battlecruiser,Sakura Empire,360,6604,273,37,0,0,https://azurlane.koumakan.jp/wiki/Haruna
+207,Kirishima,Elite,Battlecruiser,Sakura Empire,367,6604,273,37,0,0,https://azurlane.koumakan.jp/wiki/Kirishima
+208,Fusou,Rare,Battleship,Sakura Empire,390,6916,222,31,0,0,https://azurlane.koumakan.jp/wiki/Fusou
+209,Yamashiro,Rare,Battleship,Sakura Empire,390,7307,222,31,0,0,https://azurlane.koumakan.jp/wiki/Yamashiro
+210,Ise,Rare,Battleship,Sakura Empire,398,7124,230,31,0,0,https://azurlane.koumakan.jp/wiki/Ise
+211,Hyuuga,Rare,Battleship,Sakura Empire,398,7124,230,31,0,0,https://azurlane.koumakan.jp/wiki/Hyuuga
+212,Nagato,Super Rare,Battleship,Sakura Empire,419,8117,183,37,0,0,https://azurlane.koumakan.jp/wiki/Nagato
+213,Mutsu,Elite,Battleship,Sakura Empire,409,7896,185,34,0,0,https://azurlane.koumakan.jp/wiki/Mutsu
+214,Kii,Super Rare,Battleship,Sakura Empire,421,7945,368,37,0,283,https://azurlane.koumakan.jp/wiki/Kii
+215,Tosa,Super Rare,Battleship,Sakura Empire,423,8056,200,36,0,217,https://azurlane.koumakan.jp/wiki/Tosa
+218,Hiyou,Rare,Light Aircraft Carrier,Sakura Empire,0,5204,247,68,279,0,https://azurlane.koumakan.jp/wiki/Hiyou
+219,Junyou,Rare,Light Aircraft Carrier,Sakura Empire,0,5204,247,68,279,0,https://azurlane.koumakan.jp/wiki/Junyou
+220,Houshou,Elite,Light Aircraft Carrier,Sakura Empire,0,3621,257,67,286,0,https://azurlane.koumakan.jp/wiki/Houshou
+222,Shouhou,Rare,Light Aircraft Carrier,Sakura Empire,0,4283,248,70,279,0,https://azurlane.koumakan.jp/wiki/Shouhou
+223,Ryuujou,Elite,Light Aircraft Carrier,Sakura Empire,0,4279,252,82,347,0,https://azurlane.koumakan.jp/wiki/Ryuujou
+224,Akagi,Super Rare,Aircraft Carrier,Sakura Empire,0,6588,323,54,409,0,https://azurlane.koumakan.jp/wiki/Akagi
+225,Kaga,Super Rare,Aircraft Carrier,Sakura Empire,0,6771,323,49,408,0,https://azurlane.koumakan.jp/wiki/Kaga
+226,Souryuu,Elite,Aircraft Carrier,Sakura Empire,0,5246,313,56,390,0,https://azurlane.koumakan.jp/wiki/Souryuu
+227,Hiryuu,Elite,Aircraft Carrier,Sakura Empire,0,5468,311,56,391,0,https://azurlane.koumakan.jp/wiki/Hiryuu
+228,Shoukaku,Super Rare,Aircraft Carrier,Sakura Empire,0,6729,349,56,412,0,https://azurlane.koumakan.jp/wiki/Shoukaku
+229,Zuikaku,Super Rare,Aircraft Carrier,Sakura Empire,0,7193,323,57,414,0,https://azurlane.koumakan.jp/wiki/Zuikaku
+230,Taihou,Super Rare,Aircraft Carrier,Sakura Empire,0,7310,319,55,400,0,https://azurlane.koumakan.jp/wiki/Taihou
+231,Shinano,Ultra Rare,Aircraft Carrier,Sakura Empire,0,8616,317,49,437,0,https://azurlane.koumakan.jp/wiki/Shinano
+232,Akashi,Super Rare,Repair Ship,Sakura Empire,44,4125,160,45,0,0,https://azurlane.koumakan.jp/wiki/Akashi
+233,Z1,Elite,Destroyer,Iron Blood,65,2053,154,186,0,450,https://azurlane.koumakan.jp/wiki/Z1
+236,Z23,Elite,Destroyer,Iron Blood,120,2125,150,198,0,327,https://azurlane.koumakan.jp/wiki/Z23
+237,Z25,Elite,Destroyer,Iron Blood,120,2116,154,195,0,327,https://azurlane.koumakan.jp/wiki/Z25
+238,Königsberg,Normal,Light Cruiser,Iron Blood,152,3372,334,122,0,273,https://azurlane.koumakan.jp/wiki/K%C3%B6nigsberg
+239,Karlsruhe,Normal,Light Cruiser,Iron Blood,152,3372,334,122,0,273,https://azurlane.koumakan.jp/wiki/Karlsruhe
+240,Köln,Normal,Light Cruiser,Iron Blood,152,3372,334,122,0,273,https://azurlane.koumakan.jp/wiki/K%C3%B6ln
+241,Leipzig,Rare,Light Cruiser,Iron Blood,148,3495,347,117,0,270,https://azurlane.koumakan.jp/wiki/Leipzig
+242,Admiral Hipper,Elite,Heavy Cruiser,Iron Blood,251,4970,189,61,0,190,https://azurlane.koumakan.jp/wiki/Admiral_Hipper
+244,Prinz Eugen,Super Rare,Heavy Cruiser,Iron Blood,226,6252,205,62,0,153,https://azurlane.koumakan.jp/wiki/Prinz_Eugen
+245,Deutschland,Elite,Heavy Cruiser,Iron Blood,301,4018,154,53,0,220,https://azurlane.koumakan.jp/wiki/Deutschland
+246,Admiral Graf Spee,Elite,Heavy Cruiser,Iron Blood,298,4361,154,54,0,216,https://azurlane.koumakan.jp/wiki/Admiral_Graf_Spee
+248,Scharnhorst,Elite,Battlecruiser,Iron Blood,366,7455,248,38,0,154,https://azurlane.koumakan.jp/wiki/Scharnhorst
+249,Gneisenau,Elite,Battlecruiser,Iron Blood,366,7455,248,38,0,154,https://azurlane.koumakan.jp/wiki/Gneisenau
+250,Bismarck,Super Rare,Battleship,Iron Blood,423,8762,208,33,0,0,https://azurlane.koumakan.jp/wiki/Bismarck
+251,Tirpitz,Super Rare,Battleship,Iron Blood,423,8401,208,33,0,217,https://azurlane.koumakan.jp/wiki/Tirpitz
+252,Graf Zeppelin,Super Rare,Aircraft Carrier,Iron Blood,0,7488,319,50,423,0,https://azurlane.koumakan.jp/wiki/Graf_Zeppelin
+253,An Shan,Elite,Destroyer,Dragon Empery,131,2277,172,207,0,228,https://azurlane.koumakan.jp/wiki/An_Shan
+254,Fu Shun,Elite,Destroyer,Dragon Empery,128,2277,174,207,0,231,https://azurlane.koumakan.jp/wiki/Fu_Shun
+255,Chang Chun,Elite,Destroyer,Dragon Empery,131,2277,172,207,0,228,https://azurlane.koumakan.jp/wiki/Chang_Chun
+256,Tai Yuan,Elite,Destroyer,Dragon Empery,128,2277,174,207,0,229,https://azurlane.koumakan.jp/wiki/Tai_Yuan
+257,Yat Sen,Elite,Light Cruiser,Dragon Empery,120,1884,347,91,0,0,https://azurlane.koumakan.jp/wiki/Yat_Sen
+258,Ning Hai,Elite,Light Cruiser,Dragon Empery,146,1982,289,85,0,234,https://azurlane.koumakan.jp/wiki/Ning_Hai
+259,Ping Hai,Elite,Light Cruiser,Dragon Empery,146,1950,257,83,0,234,https://azurlane.koumakan.jp/wiki/Ping_Hai
+262,Avrora,Super Rare,Light Cruiser,Northern Parliament,104,3372,160,91,0,223,https://azurlane.koumakan.jp/wiki/Avrora
+263,Bailey,Rare,Destroyer,Eagle Union,87,1826,172,204,0,320,https://azurlane.koumakan.jp/wiki/Bailey
+264,Z19,Rare,Destroyer,Iron Blood,68,2033,149,186,0,440,https://azurlane.koumakan.jp/wiki/Z19
+265,Z20,Normal,Destroyer,Iron Blood,65,1993,145,186,0,433,https://azurlane.koumakan.jp/wiki/Z20
+266,Z21,Normal,Destroyer,Iron Blood,65,1993,145,186,0,433,https://azurlane.koumakan.jp/wiki/Z21
+267,Z46,Super Rare,Destroyer,Iron Blood,90,2595,255,189,0,452,https://azurlane.koumakan.jp/wiki/Z46
+268,Shimakaze,Ultra Rare,Destroyer,Sakura Empire,76,2362,161,285,0,602,https://azurlane.koumakan.jp/wiki/Shimakaze
+269,Kamikaze,Rare,Destroyer,Sakura Empire,60,1561,139,243,0,404,https://azurlane.koumakan.jp/wiki/Kamikaze
+270,Matsukaze,Rare,Destroyer,Sakura Empire,59,1561,131,239,0,404,https://azurlane.koumakan.jp/wiki/Matsukaze
+271,Mutsuki,Normal,Destroyer,Sakura Empire,59,1487,138,243,0,427,https://azurlane.koumakan.jp/wiki/Mutsuki
+272,Kisaragi,Normal,Destroyer,Sakura Empire,59,1487,138,243,0,427,https://azurlane.koumakan.jp/wiki/Kisaragi
+274,Uzuki,Normal,Destroyer,Sakura Empire,59,1487,138,243,0,427,https://azurlane.koumakan.jp/wiki/Uzuki
+276,Minazuki,Normal,Destroyer,Sakura Empire,59,1487,138,243,0,427,https://azurlane.koumakan.jp/wiki/Minazuki
+277,Fumizuki,Rare,Destroyer,Sakura Empire,60,1516,128,243,0,438,https://azurlane.koumakan.jp/wiki/Fumizuki
+278,Nagatsuki,Rare,Destroyer,Sakura Empire,60,1516,128,243,0,438,https://azurlane.koumakan.jp/wiki/Nagatsuki
+280,Mikazuki,Normal,Destroyer,Sakura Empire,59,1487,138,243,0,427,https://azurlane.koumakan.jp/wiki/Mikazuki
+286,Umikaze,Elite,Destroyer,Sakura Empire,64,1682,139,239,0,494,https://azurlane.koumakan.jp/wiki/Umikaze
+287,Yamakaze,Elite,Destroyer,Sakura Empire,65,1682,139,239,0,488,https://azurlane.koumakan.jp/wiki/Yamakaze
+288,Kawakaze,Super Rare,Destroyer,Sakura Empire,70,1830,161,239,0,545,https://azurlane.koumakan.jp/wiki/Kawakaze
+293,Kiyonami,Rare,Destroyer,Sakura Empire,59,2055,138,239,0,497,https://azurlane.koumakan.jp/wiki/Kiyonami
+295,Niizuki,Elite,Destroyer,Sakura Empire,76,2445,193,225,0,370,https://azurlane.koumakan.jp/wiki/Niizuki
+296,Harutsuki,Elite,Destroyer,Sakura Empire,74,2445,194,225,0,363,https://azurlane.koumakan.jp/wiki/Harutsuki
+297,Yoizuki,Elite,Destroyer,Sakura Empire,74,2445,200,225,0,363,https://azurlane.koumakan.jp/wiki/Yoizuki
+299,Radford,Rare,Destroyer,Eagle Union,85,2054,172,205,0,283,https://azurlane.koumakan.jp/wiki/Radford
+300,Jenkins,Rare,Destroyer,Eagle Union,85,2080,172,203,0,283,https://azurlane.koumakan.jp/wiki/Jenkins
+301,Nicholas,Elite,Destroyer,Eagle Union,87,2115,178,200,0,291,https://azurlane.koumakan.jp/wiki/Nicholas
+303,Richmond,Normal,Light Cruiser,Eagle Union,142,3237,281,124,0,207,https://azurlane.koumakan.jp/wiki/Richmond
+304,Honolulu,Rare,Light Cruiser,Eagle Union,164,3470,307,103,0,0,https://azurlane.koumakan.jp/wiki/Honolulu
+305,St. Louis,Elite,Light Cruiser,Eagle Union,171,3604,316,103,0,0,https://azurlane.koumakan.jp/wiki/St._Louis
+306,Jupiter,Rare,Destroyer,Royal Navy,76,1536,156,262,0,364,https://azurlane.koumakan.jp/wiki/Jupiter
+307,Jersey,Rare,Destroyer,Royal Navy,76,1536,156,262,0,364,https://azurlane.koumakan.jp/wiki/Jersey
+308,Sendai,Rare,Light Cruiser,Sakura Empire,150,2540,276,124,0,327,https://azurlane.koumakan.jp/wiki/Sendai
+309,Jintsuu,Elite,Light Cruiser,Sakura Empire,156,2615,285,124,0,337,https://azurlane.koumakan.jp/wiki/Jintsuu
+310,Naka,Rare,Light Cruiser,Sakura Empire,151,2540,286,124,0,337,https://azurlane.koumakan.jp/wiki/Naka
+316,Urakaze,Rare,Destroyer,Sakura Empire,64,2083,149,239,0,502,https://azurlane.koumakan.jp/wiki/Urakaze
+317,Isokaze,Rare,Destroyer,Sakura Empire,65,2083,149,239,0,502,https://azurlane.koumakan.jp/wiki/Isokaze
+318,Hamakaze,Rare,Destroyer,Sakura Empire,65,2083,150,239,0,512,https://azurlane.koumakan.jp/wiki/Hamakaze
+319,Tanikaze,Rare,Destroyer,Sakura Empire,65,2083,154,239,0,512,https://azurlane.koumakan.jp/wiki/Tanikaze
+320,Mikasa,Super Rare,Battleship,Sakura Empire,334,5372,172,26,0,0,https://azurlane.koumakan.jp/wiki/Mikasa
+321,Agano,Elite,Light Cruiser,Sakura Empire,148,3159,323,119,0,353,https://azurlane.koumakan.jp/wiki/Agano
+322,Noshiro,Super Rare,Light Cruiser,Sakura Empire,175,3278,334,119,0,373,https://azurlane.koumakan.jp/wiki/Noshiro
+325,Matchless,Elite,Destroyer,Royal Navy,76,1683,157,262,0,394,https://azurlane.koumakan.jp/wiki/Matchless
+326,Musketeer,Elite,Destroyer,Royal Navy,76,1683,156,262,0,400,https://azurlane.koumakan.jp/wiki/Musketeer
+327,Fiji,Rare,Light Cruiser,Royal Navy,159,3587,255,115,0,269,https://azurlane.koumakan.jp/wiki/Fiji
+328,Jamaica,Rare,Light Cruiser,Royal Navy,157,3636,329,115,0,269,https://azurlane.koumakan.jp/wiki/Jamaica
+329,Montpelier,Super Rare,Light Cruiser,Eagle Union,170,4361,334,106,0,0,https://azurlane.koumakan.jp/wiki/Montpelier
+330,Denver,Elite,Light Cruiser,Eagle Union,157,4307,321,106,0,0,https://azurlane.koumakan.jp/wiki/Denver
+331,Asashio,Rare,Destroyer,Sakura Empire,62,1937,149,239,0,508,https://azurlane.koumakan.jp/wiki/Asashio
+332,Ooshio,Rare,Destroyer,Sakura Empire,62,1937,150,239,0,509,https://azurlane.koumakan.jp/wiki/Ooshio
+333,Michishio,Rare,Destroyer,Sakura Empire,62,1964,150,239,0,509,https://azurlane.koumakan.jp/wiki/Michishio
+334,Arashio,Rare,Destroyer,Sakura Empire,62,1937,149,239,0,509,https://azurlane.koumakan.jp/wiki/Arashio
+335,Little Bel,Elite,Light Cruiser,Royal Navy,159,3232,283,110,0,324,https://azurlane.koumakan.jp/wiki/Little_Bel
+336,Abercrombie,Elite,Monitor,Royal Navy,286,3778,182,61,0,0,https://azurlane.koumakan.jp/wiki/Abercrombie
+337,Sussex,Rare,Heavy Cruiser,Royal Navy,203,3461,255,71,0,215,https://azurlane.koumakan.jp/wiki/Sussex
+338,I-19,Super Rare,Submarine,Sakura Empire,59,2166,0,45,0,549,https://azurlane.koumakan.jp/wiki/I-19
+339,I-26,Elite,Submarine,Sakura Empire,61,2067,0,45,0,520,https://azurlane.koumakan.jp/wiki/I-26
+340,I-58,Elite,Submarine,Sakura Empire,59,2080,0,37,0,503,https://azurlane.koumakan.jp/wiki/I-58
+341,U-81,Super Rare,Submarine,Iron Blood,50,1309,0,37,0,555,https://azurlane.koumakan.jp/wiki/U-81
+342,Dace,Elite,Submarine,Eagle Union,71,1692,0,41,0,503,https://azurlane.koumakan.jp/wiki/Dace
+343,U-47,Super Rare,Submarine,Iron Blood,48,1297,0,37,0,530,https://azurlane.koumakan.jp/wiki/U-47
+344,U-557,Elite,Submarine,Iron Blood,44,1261,0,37,0,499,https://azurlane.koumakan.jp/wiki/U-557
+345,Z35,Elite,Destroyer,Iron Blood,80,2092,182,200,0,440,https://azurlane.koumakan.jp/wiki/Z35
+346,Z18,Rare,Destroyer,Iron Blood,68,2033,149,186,0,440,https://azurlane.koumakan.jp/wiki/Z18
+347,Le Triomphant,Super Rare,Destroyer,Iris Libre,131,2021,167,266,0,267,https://azurlane.koumakan.jp/wiki/Le_Triomphant
+348,Forbin,Rare,Destroyer,Iris Libre,70,1377,138,251,0,409,https://azurlane.koumakan.jp/wiki/Forbin
+349,Émile Bertin,Elite,Light Cruiser,Iris Libre,161,3185,272,134,0,273,https://azurlane.koumakan.jp/wiki/%C3%89mile_Bertin
+350,Surcouf,Elite,Submarine,Iris Libre,139,2819,0,22,0,509,https://azurlane.koumakan.jp/wiki/Surcouf
+351,Le Mars,Rare,Destroyer,Vichya Dominion,70,1377,138,251,0,409,https://azurlane.koumakan.jp/wiki/Le_Mars
+352,Dunkerque,Elite,Battlecruiser,Vichya Dominion,357,6788,227,41,0,0,https://azurlane.koumakan.jp/wiki/Dunkerque
+353,Jean Bart,Super Rare,Battleship,Vichya Dominion,419,8036,242,42,0,0,https://azurlane.koumakan.jp/wiki/Jean_Bart
+354,Massachusetts,Super Rare,Battleship,Eagle Union,414,7783,400,33,0,0,https://azurlane.koumakan.jp/wiki/Massachusetts
+355,Bush,Rare,Destroyer,Eagle Union,85,2054,189,200,0,282,https://azurlane.koumakan.jp/wiki/Bush
+356,Centaur,Super Rare,Light Aircraft Carrier,Royal Navy,0,6627,268,70,421,0,https://azurlane.koumakan.jp/wiki/Centaur
+357,Essex,Super Rare,Aircraft Carrier,Eagle Union,0,6647,331,55,433,0,https://azurlane.koumakan.jp/wiki/Essex
+358,Albacore,Super Rare,Submarine,Eagle Union,61,1924,0,41,0,526,https://azurlane.koumakan.jp/wiki/Albacore
+359,Le Téméraire,Elite,Destroyer,Iris Libre,93,1571,172,237,0,394,https://azurlane.koumakan.jp/wiki/Le_T%C3%A9m%C3%A9raire
+360,Memphis,Rare,Light Cruiser,Eagle Union,146,3301,295,116,0,212,https://azurlane.koumakan.jp/wiki/Memphis
+361,Newcastle,Rare,Light Cruiser,Royal Navy,145,3688,347,115,0,285,https://azurlane.koumakan.jp/wiki/Newcastle
+362,Hobby,Rare,Destroyer,Eagle Union,87,1826,172,205,0,320,https://azurlane.koumakan.jp/wiki/Hobby
+363,Kalk,Rare,Destroyer,Eagle Union,87,1826,172,205,0,320,https://azurlane.koumakan.jp/wiki/Kalk
+364,Minneapolis,Super Rare,Heavy Cruiser,Eagle Union,258,4152,248,57,0,0,https://azurlane.koumakan.jp/wiki/Minneapolis
+365,Hazelwood,Rare,Destroyer,Eagle Union,85,2054,172,200,0,283,https://azurlane.koumakan.jp/wiki/Hazelwood
+366,Concord,Rare,Light Cruiser,Eagle Union,146,3301,295,116,0,215,https://azurlane.koumakan.jp/wiki/Concord
+367,Amagi,Super Rare,Battlecruiser,Sakura Empire,421,7654,187,41,0,214,https://azurlane.koumakan.jp/wiki/Amagi
+368,Kaga (Battleship),Super Rare,Battleship,Sakura Empire,423,8303,187,39,0,217,https://azurlane.koumakan.jp/wiki/Kaga_(Battleship)
+369,Hatakaze,Rare,Destroyer,Sakura Empire,60,1561,139,243,0,404,https://azurlane.koumakan.jp/wiki/Hatakaze
+370,Makinami,Elite,Destroyer,Sakura Empire,70,2157,156,239,0,526,https://azurlane.koumakan.jp/wiki/Makinami
+371,Sirius,Super Rare,Light Cruiser,Royal Navy,151,3744,385,111,0,161,https://azurlane.koumakan.jp/wiki/Sirius
+372,Curacoa,Rare,Light Cruiser,Royal Navy,134,2981,154,106,0,0,https://azurlane.koumakan.jp/wiki/Curacoa
+373,Curlew,Rare,Light Cruiser,Royal Navy,128,2789,179,106,0,0,https://azurlane.koumakan.jp/wiki/Curlew
+374,Kimberly,Rare,Destroyer,Eagle Union,83,2054,182,200,0,283,https://azurlane.koumakan.jp/wiki/Kimberly
+375,Mullany,Elite,Destroyer,Eagle Union,90,2115,172,200,0,291,https://azurlane.koumakan.jp/wiki/Mullany
+376,Chaser,Elite,Light Aircraft Carrier,Royal Navy,0,4707,257,62,299,0,https://azurlane.koumakan.jp/wiki/Chaser
+377,Independence,Elite,Light Aircraft Carrier,Eagle Union,0,4796,268,83,310,0,https://azurlane.koumakan.jp/wiki/Independence
+378,Shangri-La,Super Rare,Aircraft Carrier,Eagle Union,0,6647,331,55,430,0,https://azurlane.koumakan.jp/wiki/Shangri-La
+379,Z2,Elite,Destroyer,Iron Blood,84,2053,154,186,0,433,https://azurlane.koumakan.jp/wiki/Z2
+380,Bunker Hill,Super Rare,Aircraft Carrier,Eagle Union,0,6610,309,55,425,0,https://azurlane.koumakan.jp/wiki/Bunker_Hill
+381,I-13,Super Rare,Submarine Carrier,Sakura Empire,50,2657,0,36,252,514,https://azurlane.koumakan.jp/wiki/I-13
+382,Suzuya,Elite,Heavy Cruiser,Sakura Empire,237,4176,209,80,0,212,https://azurlane.koumakan.jp/wiki/Suzuya
+383,Hiei-chan,Elite,Battlecruiser,Sakura Empire,363,6454,247,40,0,168,https://azurlane.koumakan.jp/wiki/Hiei-chan
+384,Akagi-chan,Elite,Aircraft Carrier,Sakura Empire,0,6250,311,54,394,0,https://azurlane.koumakan.jp/wiki/Akagi-chan
+385,Zeppy,Elite,Aircraft Carrier,Iron Blood,174,6983,307,56,376,0,https://azurlane.koumakan.jp/wiki/Zeppy
+386,U-556,Elite,Submarine,Iron Blood,39,1261,0,37,0,499,https://azurlane.koumakan.jp/wiki/U-556
+387,U-73,Elite,Submarine,Iron Blood,45,1251,0,37,0,523,https://azurlane.koumakan.jp/wiki/U-73
+388,Z36,Elite,Destroyer,Iron Blood,83,2092,179,200,0,437,https://azurlane.koumakan.jp/wiki/Z36
+389,Echo,Rare,Destroyer,Royal Navy,73,1400,152,262,0,360,https://azurlane.koumakan.jp/wiki/Echo
+390,Lena,Elite,Light Cruiser,Eagle Union,167,3246,316,104,0,0,https://azurlane.koumakan.jp/wiki/Lena
+391,Clevelad,Elite,Light Cruiser,Eagle Union,162,3601,323,108,0,0,https://azurlane.koumakan.jp/wiki/Clevelad
+392,Li'l Sandy,Elite,Light Cruiser,Eagle Union,131,3226,434,109,0,161,https://azurlane.koumakan.jp/wiki/Li%27l_Sandy
+393,Swiftsure,Super Rare,Light Cruiser,Royal Navy,163,3796,304,110,0,365,https://azurlane.koumakan.jp/wiki/Swiftsure
+394,Le Malin,Super Rare,Destroyer,Vichya Dominion,137,2021,138,266,0,273,https://azurlane.koumakan.jp/wiki/Le_Malin
+395,L'Opiniâtre,Elite,Destroyer,Iris Libre,103,1772,204,224,0,370,https://azurlane.koumakan.jp/wiki/L%27Opini%C3%A2tre
+396,I-25,Elite,Submarine,Sakura Empire,65,1946,0,45,0,514,https://azurlane.koumakan.jp/wiki/I-25
+397,I-56,Elite,Submarine,Sakura Empire,59,2080,0,37,0,502,https://azurlane.koumakan.jp/wiki/I-56
+398,I-168,Super Rare,Submarine,Sakura Empire,65,1993,0,43,0,539,https://azurlane.koumakan.jp/wiki/I-168
+399,U-101,Super Rare,Submarine,Iron Blood,48,1297,0,37,0,530,https://azurlane.koumakan.jp/wiki/U-101
+400,U-522,Elite,Submarine,Iron Blood,43,1496,0,37,0,505,https://azurlane.koumakan.jp/wiki/U-522
+401,Alabama,Super Rare,Battleship,Eagle Union,419,7783,408,33,0,0,https://azurlane.koumakan.jp/wiki/Alabama
+402,Cavalla,Super Rare,Submarine,Eagle Union,65,1899,0,41,0,524,https://azurlane.koumakan.jp/wiki/Cavalla
+403,Bataan,Elite,Light Aircraft Carrier,Eagle Union,0,5008,276,83,347,0,https://azurlane.koumakan.jp/wiki/Bataan
+404,San Juan,Rare,Light Cruiser,Eagle Union,129,3517,429,109,0,157,https://azurlane.koumakan.jp/wiki/San_Juan
+405,Birmingham,Elite,Light Cruiser,Eagle Union,168,4189,327,108,0,0,https://azurlane.koumakan.jp/wiki/Birmingham
+406,Aylwin,Rare,Destroyer,Eagle Union,81,1680,183,204,0,279,https://azurlane.koumakan.jp/wiki/Aylwin
+407,Bache,Rare,Destroyer,Eagle Union,76,2095,194,203,0,283,https://azurlane.koumakan.jp/wiki/Bache
+408,Black Prince,Elite,Light Cruiser,Royal Navy,142,3608,377,111,0,153,https://azurlane.koumakan.jp/wiki/Black_Prince
+409,Stanly,Rare,Destroyer,Eagle Union,85,2095,172,200,0,283,https://azurlane.koumakan.jp/wiki/Stanly
+410,Littorio,Super Rare,Battleship,Sardegna Empire,421,8367,243,35,0,0,https://azurlane.koumakan.jp/wiki/Littorio
+411,Conte di Cavour,Rare,Battleship,Sardegna Empire,337,6831,175,36,0,146,https://azurlane.koumakan.jp/wiki/Conte_di_Cavour
+412,Giulio Cesare,Elite,Battleship,Sardegna Empire,347,7030,186,36,0,151,https://azurlane.koumakan.jp/wiki/Giulio_Cesare
+413,Zara,Super Rare,Heavy Cruiser,Sardegna Empire,252,4942,230,57,0,0,https://azurlane.koumakan.jp/wiki/Zara
+414,Trento,Rare,Heavy Cruiser,Sardegna Empire,232,3544,186,71,0,184,https://azurlane.koumakan.jp/wiki/Trento
+415,Carabiniere,Elite,Destroyer,Sardegna Empire,126,1788,160,267,0,267,https://azurlane.koumakan.jp/wiki/Carabiniere
+416,U-110,Elite,Submarine,Iron Blood,48,1463,0,37,0,499,https://azurlane.koumakan.jp/wiki/U-110
+417,Smalley,Rare,Destroyer,Eagle Union,87,2095,189,200,0,283,https://azurlane.koumakan.jp/wiki/Smalley
+418,Gascogne µ,Super Rare,Battleship,Vichya Dominion,429,7851,237,37,0,0,https://azurlane.koumakan.jp/wiki/Gascogne_%C2%B5
+419,Akagi µ,Super Rare,Aircraft Carrier,Sakura Empire,0,6541,323,54,408,0,https://azurlane.koumakan.jp/wiki/Akagi_%C2%B5
+420,Cleveland µ,Elite,Light Cruiser,Eagle Union,162,3837,323,110,0,0,https://azurlane.koumakan.jp/wiki/Cleveland_%C2%B5
+421,Sheffield µ,Elite,Light Cruiser,Royal Navy,153,3559,351,115,0,295,https://azurlane.koumakan.jp/wiki/Sheffield_%C2%B5
+422,Admiral Hipper µ,Elite,Heavy Cruiser,Iron Blood,251,4844,189,61,0,186,https://azurlane.koumakan.jp/wiki/Admiral_Hipper_%C2%B5
+423,Glasgow,Rare,Light Cruiser,Royal Navy,151,3688,344,115,0,273,https://azurlane.koumakan.jp/wiki/Glasgow
+424,Kasumi,Elite,Destroyer,Sakura Empire,65,1999,156,239,0,526,https://azurlane.koumakan.jp/wiki/Kasumi
+425,Suruga,Super Rare,Battleship,Sakura Empire,421,8229,215,37,0,214,https://azurlane.koumakan.jp/wiki/Suruga
+426,Ryuuhou,Super Rare,Light Aircraft Carrier,Sakura Empire,0,4986,276,69,317,0,https://azurlane.koumakan.jp/wiki/Ryuuhou
+427,Halsey Powell,Rare,Destroyer,Eagle Union,80,2095,219,200,0,281,https://azurlane.koumakan.jp/wiki/Halsey_Powell
+428,Biloxi,Elite,Light Cruiser,Eagle Union,151,4307,323,110,0,0,https://azurlane.koumakan.jp/wiki/Biloxi
+429,Uranami,Elite,Destroyer,Sakura Empire,65,1798,146,244,0,504,https://azurlane.koumakan.jp/wiki/Uranami
+431,Grozny,Elite,Destroyer,Northern Parliament,124,2495,204,207,0,179,https://azurlane.koumakan.jp/wiki/Grozny
+432,Minsk,Elite,Destroyer,Northern Parliament,145,2611,172,221,0,228,https://azurlane.koumakan.jp/wiki/Minsk
+433,Tashkent,Super Rare,Destroyer,Northern Parliament,179,2648,176,224,0,279,https://azurlane.koumakan.jp/wiki/Tashkent
+434,Pamiat Merkuria,Elite,Light Cruiser,Northern Parliament,83,3060,145,100,0,142,https://azurlane.koumakan.jp/wiki/Pamiat_Merkuria
+435,Kirov,Super Rare,Light Cruiser,Northern Parliament,182,4075,344,126,0,296,https://azurlane.koumakan.jp/wiki/Kirov
+436,Chapayev,Super Rare,Light Cruiser,Northern Parliament,171,4352,334,107,0,0,https://azurlane.koumakan.jp/wiki/Chapayev
+437,Gangut,Elite,Battleship,Northern Parliament,324,6491,174,33,0,0,https://azurlane.koumakan.jp/wiki/Gangut
+440,Sovetskaya Belorussiya,Super Rare,Battleship,Northern Parliament,429,8262,215,35,0,0,https://azurlane.koumakan.jp/wiki/Sovetskaya_Belorussiya
+441,Sovetskaya Rossiya,Super Rare,Battleship,Northern Parliament,427,8324,247,35,0,0,https://azurlane.koumakan.jp/wiki/Sovetskaya_Rossiya
+442,Intrepid,Super Rare,Aircraft Carrier,Eagle Union,0,6634,331,55,430,0,https://azurlane.koumakan.jp/wiki/Intrepid
+443,Bremerton,Super Rare,Heavy Cruiser,Eagle Union,267,4828,266,57,0,0,https://azurlane.koumakan.jp/wiki/Bremerton
+444,Cooper,Elite,Destroyer,Eagle Union,126,2190,200,223,0,360,https://azurlane.koumakan.jp/wiki/Cooper
+445,Reno,Super Rare,Light Cruiser,Eagle Union,148,3756,479,109,0,196,https://azurlane.koumakan.jp/wiki/Reno
+446,Bluegill,Elite,Submarine,Eagle Union,71,1692,0,41,0,499,https://azurlane.koumakan.jp/wiki/Bluegill
+447,Casablanca,Rare,Light Aircraft Carrier,Eagle Union,0,4707,258,62,286,0,https://azurlane.koumakan.jp/wiki/Casablanca
+448,Marblehead,Rare,Light Cruiser,Eagle Union,135,3301,286,116,0,245,https://azurlane.koumakan.jp/wiki/Marblehead
+449,Hanazuki,Elite,Destroyer,Sakura Empire,76,2445,200,225,0,370,https://azurlane.koumakan.jp/wiki/Hanazuki
+450,Naganami,Elite,Destroyer,Sakura Empire,65,2157,156,239,0,530,https://azurlane.koumakan.jp/wiki/Naganami
+451,Little Renown,Elite,Battlecruiser,Royal Navy,344,6318,303,41,0,0,https://azurlane.koumakan.jp/wiki/Little_Renown
+452,Tartu,Elite,Destroyer,Vichya Dominion,120,1868,141,264,0,273,https://azurlane.koumakan.jp/wiki/Tartu
+453,Richelieu,Super Rare,Battleship,Iris Libre,447,8428,293,42,0,0,https://azurlane.koumakan.jp/wiki/Richelieu
+454,Jeanne d'Arc,Super Rare,Light Cruiser,Iris Libre,152,3223,276,91,0,264,https://azurlane.koumakan.jp/wiki/Jeanne_d%27Arc
+455,Algérie,Super Rare,Heavy Cruiser,Vichya Dominion,279,5021,244,66,0,223,https://azurlane.koumakan.jp/wiki/Alg%C3%A9rie
+456,La Galissonnière,Elite,Light Cruiser,Vichya Dominion,172,3484,309,131,0,279,https://azurlane.koumakan.jp/wiki/La_Galissonni%C3%A8re
+457,Vauquelin,Elite,Destroyer,Vichya Dominion,113,1868,143,264,0,279,https://azurlane.koumakan.jp/wiki/Vauquelin
+458,Béarn,Elite,Aircraft Carrier,Iris Libre,174,6261,307,36,376,255,https://azurlane.koumakan.jp/wiki/B%C3%A9arn
+459,Little Illustrious,Elite,Aircraft Carrier,Royal Navy,0,5946,266,53,380,0,https://azurlane.koumakan.jp/wiki/Little_Illustrious
+460,Eskimo,Elite,Destroyer,Royal Navy,87,1658,156,263,0,350,https://azurlane.koumakan.jp/wiki/Eskimo
+461,Howe,Super Rare,Battleship,Royal Navy,419,7967,258,35,0,0,https://azurlane.koumakan.jp/wiki/Howe
+462,Perseus,Super Rare,Light Aircraft Carrier,Royal Navy,0,5540,264,71,327,0,https://azurlane.koumakan.jp/wiki/Perseus
+463,Hermione,Super Rare,Light Cruiser,Royal Navy,159,3744,381,110,0,173,https://azurlane.koumakan.jp/wiki/Hermione
+464,Valiant,Elite,Battleship,Royal Navy,408,7467,212,31,0,0,https://azurlane.koumakan.jp/wiki/Valiant
+465,Icarus,Elite,Destroyer,Royal Navy,79,1669,157,263,0,376,https://azurlane.koumakan.jp/wiki/Icarus
+466,Z26,Elite,Destroyer,Iron Blood,120,2116,154,195,0,327,https://azurlane.koumakan.jp/wiki/Z26
+467,U-96,Super Rare,Submarine,Iron Blood,53,1306,0,37,0,536,https://azurlane.koumakan.jp/wiki/U-96
+468,Suzutsuki,Super Rare,Destroyer,Sakura Empire,81,2538,205,225,0,384,https://azurlane.koumakan.jp/wiki/Suzutsuki
+469,Kumano,Elite,Heavy Cruiser,Sakura Empire,237,4141,215,82,0,212,https://azurlane.koumakan.jp/wiki/Kumano
+470,Chitose,Elite,Light Aircraft Carrier,Sakura Empire,0,4398,261,72,347,0,https://azurlane.koumakan.jp/wiki/Chitose
+471,Chiyoda,Elite,Light Aircraft Carrier,Sakura Empire,0,4847,261,72,347,0,https://azurlane.koumakan.jp/wiki/Chiyoda
+472,Kashino,Elite,Munition Ship,Sakura Empire,73,4980,134,51,0,0,https://azurlane.koumakan.jp/wiki/Kashino
+473,Princeton,Elite,Light Aircraft Carrier,Eagle Union,0,4791,255,85,340,0,https://azurlane.koumakan.jp/wiki/Princeton
+474,Taihou µ,Super Rare,Aircraft Carrier,Sakura Empire,0,7195,309,55,400,0,https://azurlane.koumakan.jp/wiki/Taihou_%C2%B5
+475,Tashkent µ,Super Rare,Destroyer,Northern Parliament,148,2648,154,224,0,309,https://azurlane.koumakan.jp/wiki/Tashkent_%C2%B5
+476,Dido µ,Super Rare,Light Cruiser,Royal Navy,148,3921,424,111,0,178,https://azurlane.koumakan.jp/wiki/Dido_%C2%B5
+477,Albacore µ,Elite,Submarine,Eagle Union,59,1843,0,41,0,507,https://azurlane.koumakan.jp/wiki/Albacore_%C2%B5
+478,Baltimore µ,Elite,Heavy Cruiser,Eagle Union,261,4646,251,57,0,0,https://azurlane.koumakan.jp/wiki/Baltimore_%C2%B5
+479,Roon µ,Super Rare,Heavy Cruiser,Iron Blood,283,6055,233,78,0,215,https://azurlane.koumakan.jp/wiki/Roon_%C2%B5
+480,Illustrious µ,Super Rare,Aircraft Carrier,Royal Navy,0,6513,293,53,407,0,https://azurlane.koumakan.jp/wiki/Illustrious_%C2%B5
+481,Le Malin µ,Super Rare,Destroyer,Vichya Dominion,139,2021,135,266,0,274,https://azurlane.koumakan.jp/wiki/Le_Malin_%C2%B5
+482,Peter Strasser,Super Rare,Aircraft Carrier,Iron Blood,0,7488,309,50,423,0,https://azurlane.koumakan.jp/wiki/Peter_Strasser
+483,Prinz Heinrich,Super Rare,Heavy Cruiser,Iron Blood,310,5946,219,66,0,245,https://azurlane.koumakan.jp/wiki/Prinz_Heinrich
+484,U-37,Super Rare,Submarine,Iron Blood,45,1552,0,37,0,540,https://azurlane.koumakan.jp/wiki/U-37
+485,Weser,Elite,Light Aircraft Carrier,Iron Blood,0,4759,264,75,323,0,https://azurlane.koumakan.jp/wiki/Weser
+486,Nürnberg,Elite,Light Cruiser,Iron Blood,176,3811,403,112,0,304,https://azurlane.koumakan.jp/wiki/N%C3%BCrnberg
+487,Z24,Elite,Destroyer,Iron Blood,120,2125,150,198,0,327,https://azurlane.koumakan.jp/wiki/Z24
+488,Z28,Elite,Destroyer,Iron Blood,76,2123,143,195,0,423,https://azurlane.koumakan.jp/wiki/Z28
+489,Pola,Super Rare,Heavy Cruiser,Sardegna Empire,252,4942,243,57,0,0,https://azurlane.koumakan.jp/wiki/Pola
+490,Vincenzo Gioberti,Elite,Destroyer,Sardegna Empire,113,1846,154,264,0,289,https://azurlane.koumakan.jp/wiki/Vincenzo_Gioberti
+491,Stremitelny,Elite,Destroyer,Northern Parliament,131,2468,178,219,0,231,https://azurlane.koumakan.jp/wiki/Stremitelny
+492,U-410,Elite,Submarine,Iron Blood,43,1261,0,37,0,503,https://azurlane.koumakan.jp/wiki/U-410
+493,Ying Swei,Elite,Light Cruiser,Dragon Empery,70,2443,130,81,0,232,https://azurlane.koumakan.jp/wiki/Ying_Swei
+494,Chao Ho,Elite,Light Cruiser,Dragon Empery,70,2538,128,81,0,232,https://azurlane.koumakan.jp/wiki/Chao_Ho
+495,Penelope,Elite,Light Cruiser,Royal Navy,159,2914,334,115,0,279,https://azurlane.koumakan.jp/wiki/Penelope
+496,Tallinn,Super Rare,Heavy Cruiser,Northern Parliament,261,5614,221,61,0,197,https://azurlane.koumakan.jp/wiki/Tallinn
+497,Gremyashchy,Elite,Destroyer,Northern Parliament,142,2165,150,207,0,279,https://azurlane.koumakan.jp/wiki/Gremyashchy
+498,Murmansk,Elite,Light Cruiser,Northern Parliament,157,3396,293,116,0,261,https://azurlane.koumakan.jp/wiki/Murmansk
+499,Gromky,Elite,Destroyer,Northern Parliament,131,2277,167,219,0,235,https://azurlane.koumakan.jp/wiki/Gromky
+500,Vittorio Veneto,Super Rare,Battleship,Sardegna Empire,429,8491,243,35,0,0,https://azurlane.koumakan.jp/wiki/Vittorio_Veneto
+501,Duca degli Abruzzi,Super Rare,Light Cruiser,Sardegna Empire,159,4361,371,110,0,320,https://azurlane.koumakan.jp/wiki/Duca_degli_Abruzzi
+502,Aquila,Super Rare,Aircraft Carrier,Sardegna Empire,0,6217,363,45,398,0,https://azurlane.koumakan.jp/wiki/Aquila
+503,Torricelli,Elite,Submarine,Sardegna Empire,39,1518,0,37,0,499,https://azurlane.koumakan.jp/wiki/Torricelli
+504,Maestrale,Elite,Destroyer,Sardegna Empire,109,1821,160,270,0,293,https://azurlane.koumakan.jp/wiki/Maestrale
+505,Libeccio,Elite,Destroyer,Sardegna Empire,115,1783,154,264,0,299,https://azurlane.koumakan.jp/wiki/Libeccio
+506,Nicoloso da Recco,Elite,Destroyer,Sardegna Empire,115,1850,171,261,0,279,https://azurlane.koumakan.jp/wiki/Nicoloso_da_Recco
+507,Oite,Rare,Destroyer,Sakura Empire,59,1561,131,243,0,404,https://azurlane.koumakan.jp/wiki/Oite
+508,Allen M. Sumner,Super Rare,Destroyer,Eagle Union,140,2526,233,223,0,373,https://azurlane.koumakan.jp/wiki/Allen_M._Sumner
+509,Stephen Potter,Elite,Destroyer,Eagle Union,90,2156,182,200,0,292,https://azurlane.koumakan.jp/wiki/Stephen_Potter
+510,Amagi-chan,Elite,Battlecruiser,Sakura Empire,367,7223,182,43,0,172,https://azurlane.koumakan.jp/wiki/Amagi-chan
+511,Ticonderoga,Super Rare,Aircraft Carrier,Eagle Union,0,6622,331,55,433,0,https://azurlane.koumakan.jp/wiki/Ticonderoga
+512,San Francisco,Super Rare,Heavy Cruiser,Eagle Union,255,4831,226,68,0,0,https://azurlane.koumakan.jp/wiki/San_Francisco
+513,Archerfish,Super Rare,Submarine,Eagle Union,65,1924,0,41,0,530,https://azurlane.koumakan.jp/wiki/Archerfish
+514,Boise,Elite,Light Cruiser,Eagle Union,165,3561,327,103,0,0,https://azurlane.koumakan.jp/wiki/Boise
+515,Morrison,Elite,Destroyer,Eagle Union,84,2115,178,200,0,289,https://azurlane.koumakan.jp/wiki/Morrison
+516,Little Enterprise,Elite,Aircraft Carrier,Eagle Union,0,5897,299,55,405,0,https://azurlane.koumakan.jp/wiki/Little_Enterprise
+517,Kazagumo,Super Rare,Destroyer,Sakura Empire,74,2238,160,239,0,556,https://azurlane.koumakan.jp/wiki/Kazagumo
+518,Ingraham,Super Rare,Destroyer,Eagle Union,137,2400,231,223,0,378,https://azurlane.koumakan.jp/wiki/Ingraham
+519,Nautilus,Elite,Submarine,Eagle Union,113,2458,0,36,0,499,https://azurlane.koumakan.jp/wiki/Nautilus
+520,Katsuragi,Super Rare,Aircraft Carrier,Sakura Empire,0,6079,309,54,419,0,https://azurlane.koumakan.jp/wiki/Katsuragi
+521,New Orleans,Super Rare,Heavy Cruiser,Eagle Union,243,4911,266,59,0,0,https://azurlane.koumakan.jp/wiki/New_Orleans
+522,Le Terrible,Super Rare,Destroyer,Iris Libre,141,2116,132,305,0,270,https://azurlane.koumakan.jp/wiki/Le_Terrible
+523,Maillé Brézé,Elite,Destroyer,Iris Libre,109,1868,154,264,0,270,https://azurlane.koumakan.jp/wiki/Maill%C3%A9_Br%C3%A9z%C3%A9
+524,Foch,Elite,Heavy Cruiser,Vichya Dominion,237,4030,255,57,0,255,https://azurlane.koumakan.jp/wiki/Foch
+Plan001,Neptune,Super Rare,Light Cruiser,Royal Navy,172,4637,363,98,0,352,https://azurlane.koumakan.jp/wiki/Neptune
+Plan002,Monarch,Super Rare,Battleship,Royal Navy,423,7967,230,35,0,0,https://azurlane.koumakan.jp/wiki/Monarch
+Plan003,Ibuki,Super Rare,Heavy Cruiser,Sakura Empire,270,4793,194,86,0,289,https://azurlane.koumakan.jp/wiki/Ibuki
+Plan004,Izumo,Super Rare,Battleship,Sakura Empire,428,8607,237,37,0,0,https://azurlane.koumakan.jp/wiki/Izumo
+Plan005,Roon,Super Rare,Heavy Cruiser,Iron Blood,283,5920,233,78,0,215,https://azurlane.koumakan.jp/wiki/Roon
+Plan006,Saint Louis,Super Rare,Heavy Cruiser,Iris Libre,276,5363,248,80,0,226,https://azurlane.koumakan.jp/wiki/Saint_Louis
+Plan007,Seattle,Super Rare,Light Cruiser,Eagle Union,178,5257,365,97,0,0,https://azurlane.koumakan.jp/wiki/Seattle
+Plan008,Georgia,Super Rare,Battleship,Eagle Union,436,8297,409,30,0,0,https://azurlane.koumakan.jp/wiki/Georgia
+Plan009,Kitakaze,Super Rare,Destroyer,Sakura Empire,86,2641,197,239,0,393,https://azurlane.koumakan.jp/wiki/Kitakaze
+Plan010,Azuma,Ultra Rare,Large Cruiser,Sakura Empire,307,7541,226,50,0,0,https://azurlane.koumakan.jp/wiki/Azuma
+Plan011,Friedrich der Große,Ultra Rare,Battleship,Iron Blood,449,9886,241,27,0,0,https://azurlane.koumakan.jp/wiki/Friedrich_der_Gro%C3%9Fe
+Plan012,Gascogne,Super Rare,Battleship,Vichya Dominion,430,7863,241,36,0,0,https://azurlane.koumakan.jp/wiki/Gascogne
+Plan013,Cheshire,Super Rare,Heavy Cruiser,Royal Navy,282,5141,409,76,0,208,https://azurlane.koumakan.jp/wiki/Cheshire
+Plan014,Drake,Ultra Rare,Heavy Cruiser,Royal Navy,289,5668,289,75,0,245,https://azurlane.koumakan.jp/wiki/Drake
+Plan015,Mainz,Super Rare,Light Cruiser,Iron Blood,168,5262,353,75,0,193,https://azurlane.koumakan.jp/wiki/Mainz
+Plan016,Odin,Super Rare,Battlecruiser,Iron Blood,361,7126,338,36,0,241,https://azurlane.koumakan.jp/wiki/Odin
+Plan017,Champagne,Super Rare,Battleship,Iris Libre,454,6896,241,36,0,0,https://azurlane.koumakan.jp/wiki/Champagne
+Plan018,Anchorage,Super Rare,Heavy Cruiser,Eagle Union,252,6256,227,80,0,215,https://azurlane.koumakan.jp/wiki/Anchorage
+Plan019,Hakuryuu,Ultra Rare,Aircraft Carrier,Sakura Empire,0,8354,323,57,453,0,https://azurlane.koumakan.jp/wiki/Hakuryuu
+Plan020,Ägir,Ultra Rare,Large Cruiser,Iron Blood,282,7877,252,52,0,202,https://azurlane.koumakan.jp/wiki/%C3%84gir
+Plan021,August von Parseval,Super Rare,Aircraft Carrier,Iron Blood,0,7238,327,47,430,0,https://azurlane.koumakan.jp/wiki/August_von_Parseval
+Plan022,Marco Polo,Super Rare,Battleship,Sardegna Empire,432,8422,258,40,0,0,https://azurlane.koumakan.jp/wiki/Marco_Polo
+30001,Hiryuu META,Super Rare,Aircraft Carrier,META,0,5699,312,59,424,0,https://azurlane.koumakan.jp/wiki/Hiryuu_META
+30002,Ark Royal META,Super Rare,Aircraft Carrier,META,0,6356,320,52,419,0,https://azurlane.koumakan.jp/wiki/Ark_Royal_META
+30003,Helena META,Super Rare,Light Cruiser,META,175,4181,414,95,0,0,https://azurlane.koumakan.jp/wiki/Helena_META
+30004,Souryuu META,Super Rare,Aircraft Carrier,META,0,5279,309,49,419,0,https://azurlane.koumakan.jp/wiki/Souryuu_META
+30005,Fusou META,Elite,Battleship,META,400,7306,235,31,0,0,https://azurlane.koumakan.jp/wiki/Fusou_META
+10061,Marie Rose,Super Rare,Destroyer,Venus Vacation,91,2041,178,241,0,507,https://azurlane.koumakan.jp/wiki/Marie_Rose
+10062,Honoka,Super Rare,Battleship,Venus Vacation,403,7903,215,18,0,0,https://azurlane.koumakan.jp/wiki/Honoka
+10063,Kasumi (Venus Vacation),Super Rare,Heavy Cruiser,Venus Vacation,263,4846,224,94,0,216,https://azurlane.koumakan.jp/wiki/Kasumi_(Venus_Vacation)
+10064,Misaki,Super Rare,Light Cruiser,Venus Vacation,168,3882,326,106,0,0,https://azurlane.koumakan.jp/wiki/Misaki
+10065,Nagisa,Elite,Battleship,Venus Vacation,383,7510,173,39,0,0,https://azurlane.koumakan.jp/wiki/Nagisa
+10066,Nyotengu,Elite,Aircraft Carrier,Venus Vacation,0,6646,309,54,374,0,https://azurlane.koumakan.jp/wiki/Nyotengu
+10067,Monica,Elite,Light Cruiser,Venus Vacation,148,3774,356,114,0,292,https://azurlane.koumakan.jp/wiki/Monica
+10071,Haruka Amami,Super Rare,Light Cruiser,The Idolmaster,163,4019,359,110,0,360,https://azurlane.koumakan.jp/wiki/Haruka_Amami
+10072,Chihaya Kisaragi,Super Rare,Aircraft Carrier,The Idolmaster,0,6762,315,54,429,0,https://azurlane.koumakan.jp/wiki/Chihaya_Kisaragi
+10073,Iori Minase,Super Rare,Battleship,The Idolmaster,420,7815,376,34,0,0,https://azurlane.koumakan.jp/wiki/Iori_Minase
+10074,Azusa Miura,Super Rare,Heavy Cruiser,The Idolmaster,240,5237,211,65,0,0,https://azurlane.koumakan.jp/wiki/Azusa_Miura
+10075,Ritsuko Akizuki,Elite,Munition Ship,The Idolmaster,70,4322,173,62,0,0,https://azurlane.koumakan.jp/wiki/Ritsuko_Akizuki
+10076,Ami Futami,Elite,Submarine,The Idolmaster,48,1506,0,42,0,512,https://azurlane.koumakan.jp/wiki/Ami_Futami
+10077,Mami Futami,Elite,Submarine,The Idolmaster,48,1506,0,42,0,512,https://azurlane.koumakan.jp/wiki/Mami_Futami
+Collab001,Neptune (Neptunia),Elite,Light Cruiser,Neptunia,152,3430,302,114,0,289,https://azurlane.koumakan.jp/wiki/Neptune_(Neptunia)
+Collab002,Noire,Elite,Heavy Cruiser,Neptunia,237,3827,178,65,0,199,https://azurlane.koumakan.jp/wiki/Noire
+Collab003,Blanc,Elite,Destroyer,Neptunia,70,1801,148,219,0,438,https://azurlane.koumakan.jp/wiki/Blanc
+Collab004,Vert,Elite,Aircraft Carrier,Neptunia,0,5522,288,47,377,0,https://azurlane.koumakan.jp/wiki/Vert
+Collab005,Purple Heart,Super Rare,Light Cruiser,Neptunia,166,3694,312,116,0,309,https://azurlane.koumakan.jp/wiki/Purple_Heart
+Collab006,Black Heart,Super Rare,Heavy Cruiser,Neptunia,250,4061,192,67,0,218,https://azurlane.koumakan.jp/wiki/Black_Heart
+Collab007,White Heart,Super Rare,Destroyer,Neptunia,74,1946,153,223,0,476,https://azurlane.koumakan.jp/wiki/White_Heart
+Collab008,Green Heart,Super Rare,Aircraft Carrier,Neptunia,0,5781,298,55,395,0,https://azurlane.koumakan.jp/wiki/Green_Heart
+Collab021,22,Elite,Destroyer,Bilibili,54,1426,149,205,0,204,https://azurlane.koumakan.jp/wiki/22
+Collab022,33,Elite,Destroyer,Bilibili,38,1374,149,205,0,250,https://azurlane.koumakan.jp/wiki/33
+Collab031,Kuon,Super Rare,Heavy Cruiser,Utawarerumono,237,4138,174,54,0,198,https://azurlane.koumakan.jp/wiki/Kuon
+Collab032,Nekone,Super Rare,Destroyer,Utawarerumono,97,1940,209,236,0,356,https://azurlane.koumakan.jp/wiki/Nekone
+Collab033,Rurutie,Super Rare,Light Cruiser,Utawarerumono,150,4106,274,100,0,248,https://azurlane.koumakan.jp/wiki/Rurutie
+Collab034,Uruuru,Elite,Light Aircraft Carrier,Utawarerumono,0,4472,255,55,237,0,https://azurlane.koumakan.jp/wiki/Uruuru
+Collab035,Saraana,Elite,Light Aircraft Carrier,Utawarerumono,0,4472,255,55,237,0,https://azurlane.koumakan.jp/wiki/Saraana
+Collab036,Fumiruiru,Elite,Aircraft Carrier,Utawarerumono,0,5126,266,54,337,0,https://azurlane.koumakan.jp/wiki/Fumiruiru
+Collab041,Kizuna AI,Elite,Destroyer,KizunaAI,74,1768,166,243,0,473,https://azurlane.koumakan.jp/wiki/Kizuna_AI
+Collab042,Elegant Kizuna AI,Super Rare,Heavy Cruiser,KizunaAI,255,5019,224,55,0,0,https://azurlane.koumakan.jp/wiki/Elegant_Kizuna_AI
+Collab043,Anniversary Kizuna AI,Super Rare,Aircraft Carrier,KizunaAI,0,6626,323,39,409,0,https://azurlane.koumakan.jp/wiki/Anniversary_Kizuna_AI
+Collab044,Super Gamer Kizuna AI,Super Rare,Battleship,KizunaAI,409,7649,199,30,0,212,https://azurlane.koumakan.jp/wiki/Super_Gamer_Kizuna_AI
+Collab051,Shirakami Fubuki,Super Rare,Destroyer,Hololive,76,1830,178,239,201,483,https://azurlane.koumakan.jp/wiki/Shirakami_Fubuki
+Collab052,Tokino Sora,Super Rare,Aircraft Carrier,Hololive,0,6614,337,48,418,0,https://azurlane.koumakan.jp/wiki/Tokino_Sora
+Collab053,Minato Aqua,Super Rare,Submarine,Hololive,65,1681,0,44,0,538,https://azurlane.koumakan.jp/wiki/Minato_Aqua
+Collab054,Natsuiro Matsuri,Elite,Destroyer,Hololive,70,1762,165,238,0,467,https://azurlane.koumakan.jp/wiki/Natsuiro_Matsuri
+Collab055,Nakiri Ayame,Elite,Heavy Cruiser,Hololive,234,4167,197,49,0,0,https://azurlane.koumakan.jp/wiki/Nakiri_Ayame
+Collab056,Murasaki Shion,Elite,Light Aircraft Carrier,Hololive,0,5178,255,67,311,0,https://azurlane.koumakan.jp/wiki/Murasaki_Shion
+Collab057,Ookami Mio,Elite,Aircraft Carrier,Hololive,0,6372,288,47,374,0,https://azurlane.koumakan.jp/wiki/Ookami_Mio
+3005,Cassin,Rare,Destroyer,Eagle Union,101,1900,168,229,0,293,https://azurlane.koumakan.jp/wiki/Cassin
+3006,Downes,Rare,Destroyer,Eagle Union,101,1900,168,229,0,293,https://azurlane.koumakan.jp/wiki/Downes
+3019,Laffey,Super Rare,Destroyer,Eagle Union,161,2145,176,245,0,342,https://azurlane.koumakan.jp/wiki/Laffey
+3026,Sims,Elite,Destroyer,Eagle Union,111,2025,262,200,0,286,https://azurlane.koumakan.jp/wiki/Sims
+3027,Hammann,Elite,Destroyer,Eagle Union,96,2025,262,200,0,286,https://azurlane.koumakan.jp/wiki/Hammann
+3033,Helena,Super Rare,Light Cruiser,Eagle Union,181,3844,406,103,0,0,https://azurlane.koumakan.jp/wiki/Helena
+3036,San Diego,Ultra Rare,Light Cruiser,Eagle Union,182,3996,559,109,0,168,https://azurlane.koumakan.jp/wiki/San_Diego
+3044,Portland,Elite,Heavy Cruiser,Eagle Union,234,5355,260,79,0,0,https://azurlane.koumakan.jp/wiki/Portland
+3052,Nevada,Rare,Battleship,Eagle Union,388,7214,242,26,0,0,https://azurlane.koumakan.jp/wiki/Nevada
+3053,Oklahoma,Rare,Battleship,Eagle Union,388,7196,247,26,0,0,https://azurlane.koumakan.jp/wiki/Oklahoma
+3070,Long Island,Elite,Light Aircraft Carrier,Eagle Union,0,4901,292,66,341,0,https://azurlane.koumakan.jp/wiki/Long_Island
+3071,Bogue,Rare,Light Aircraft Carrier,Eagle Union,0,4163,287,67,339,0,https://azurlane.koumakan.jp/wiki/Bogue
+3072,Langley,Rare,Light Aircraft Carrier,Eagle Union,0,4700,280,80,264,0,https://azurlane.koumakan.jp/wiki/Langley
+3074,Saratoga,Super Rare,Aircraft Carrier,Eagle Union,0,7122,353,57,442,0,https://azurlane.koumakan.jp/wiki/Saratoga
+3075,Ranger,Rare,Light Aircraft Carrier,Eagle Union,0,5019,283,73,300,0,https://azurlane.koumakan.jp/wiki/Ranger
+3081,Amazon,Elite,Destroyer,Royal Navy,65,1535,194,284,0,360,https://azurlane.koumakan.jp/wiki/Amazon
+3082,Acasta,Elite,Destroyer,Royal Navy,68,1535,169,297,0,400,https://azurlane.koumakan.jp/wiki/Acasta
+3083,Ardent,Elite,Destroyer,Royal Navy,68,1535,169,297,0,400,https://azurlane.koumakan.jp/wiki/Ardent
+3088,Comet,Rare,Destroyer,Royal Navy,68,1525,165,297,0,385,https://azurlane.koumakan.jp/wiki/Comet
+3089,Crescent,Rare,Destroyer,Royal Navy,108,1525,165,292,0,350,https://azurlane.koumakan.jp/wiki/Crescent
+3090,Cygnet,Rare,Destroyer,Royal Navy,98,1525,165,307,0,350,https://azurlane.koumakan.jp/wiki/Cygnet
+3091,Foxhound,Rare,Destroyer,Royal Navy,106,1538,165,302,0,350,https://azurlane.koumakan.jp/wiki/Foxhound
+3092,Fortune,Elite,Destroyer,Royal Navy,107,1567,169,302,0,357,https://azurlane.koumakan.jp/wiki/Fortune
+3101,Javelin,Super Rare,Destroyer,Royal Navy,90,1746,160,302,0,429,https://azurlane.koumakan.jp/wiki/Javelin
+3104,Leander,Rare,Light Cruiser,Royal Navy,196,3487,321,124,0,305,https://azurlane.koumakan.jp/wiki/Leander
+3105,Achilles,Elite,Light Cruiser,Royal Navy,213,3214,295,111,0,359,https://azurlane.koumakan.jp/wiki/Achilles
+3106,Ajax,Elite,Light Cruiser,Royal Navy,213,3214,295,111,0,359,https://azurlane.koumakan.jp/wiki/Ajax
+3119,London,Super Rare,Heavy Cruiser,Royal Navy,233,3841,297,82,0,223,https://azurlane.koumakan.jp/wiki/London
+3122,Suffolk,Elite,Heavy Cruiser,Royal Navy,273,3754,208,65,0,245,https://azurlane.koumakan.jp/wiki/Suffolk
+3125,York,Super Rare,Heavy Cruiser,Royal Navy,286,3916,258,92,0,193,https://azurlane.koumakan.jp/wiki/York
+3126,Exeter,Super Rare,Heavy Cruiser,Royal Navy,266,3945,258,72,0,193,https://azurlane.koumakan.jp/wiki/Exeter
+3131,Warspite,Ultra Rare,Battleship,Royal Navy,446,8023,290,33,0,0,https://azurlane.koumakan.jp/wiki/Warspite
+3140,Hermes,Rare,Light Aircraft Carrier,Royal Navy,0,4368,297,67,301,0,https://azurlane.koumakan.jp/wiki/Hermes
+3144,Ark Royal,Super Rare,Aircraft Carrier,Royal Navy,0,6317,357,53,435,0,https://azurlane.koumakan.jp/wiki/Ark_Royal
+3155,Ayanami,Super Rare,Destroyer,Sakura Empire,75,1963,146,264,0,569,https://azurlane.koumakan.jp/wiki/Ayanami
+3164,Yuudachi,Ultra Rare,Destroyer,Sakura Empire,110,1993,157,279,0,585,https://azurlane.koumakan.jp/wiki/Yuudachi
+3165,Shigure,Super Rare,Destroyer,Sakura Empire,85,1928,150,259,0,589,https://azurlane.koumakan.jp/wiki/Shigure
+3167,Kagerou,Elite,Destroyer,Sakura Empire,75,2050,150,241,0,552,https://azurlane.koumakan.jp/wiki/Kagerou
+3168,Shiranui,Rare,Destroyer,Sakura Empire,74,1908,145,261,0,562,https://azurlane.koumakan.jp/wiki/Shiranui
+3171,Hatsuharu,Elite,Destroyer,Sakura Empire,59,1938,175,261,0,518,https://azurlane.koumakan.jp/wiki/Hatsuharu
+3174,Hatsushimo,Elite,Destroyer,Sakura Empire,59,1938,175,261,0,518,https://azurlane.koumakan.jp/wiki/Hatsushimo
+3175,Ariake,Elite,Destroyer,Sakura Empire,59,1938,175,261,0,518,https://azurlane.koumakan.jp/wiki/Ariake
+3176,Yuugure,Elite,Destroyer,Sakura Empire,59,1784,175,263,0,518,https://azurlane.koumakan.jp/wiki/Yuugure
+3179,Yuubari,Super Rare,Light Cruiser,Sakura Empire,161,2342,332,120,0,286,https://azurlane.koumakan.jp/wiki/Yuubari
+3183,Isuzu,Elite,Light Cruiser,Sakura Empire,120,3454,393,115,0,230,https://azurlane.koumakan.jp/wiki/Isuzu
+3186,Kinu,Super Rare,Light Cruiser,Sakura Empire,158,3126,319,120,0,354,https://azurlane.koumakan.jp/wiki/Kinu
+3187,Abukuma,Rare,Light Cruiser,Sakura Empire,160,3131,278,128,0,344,https://azurlane.koumakan.jp/wiki/Abukuma
+3188,Mogami,Super Rare,Heavy Cruiser,Sakura Empire,264,4624,233,80,0,202,https://azurlane.koumakan.jp/wiki/Mogami
+3190,Furutaka,Rare,Heavy Cruiser,Sakura Empire,245,3719,176,75,0,235,https://azurlane.koumakan.jp/wiki/Furutaka
+3191,Kako,Rare,Heavy Cruiser,Sakura Empire,245,3719,176,75,0,235,https://azurlane.koumakan.jp/wiki/Kako
+3208,Fusou,Elite,Aviation Battleship,Sakura Empire,390,7266,303,31,202,0,https://azurlane.koumakan.jp/wiki/Fusou
+3209,Yamashiro,Elite,Aviation Battleship,Sakura Empire,390,7657,303,31,202,0,https://azurlane.koumakan.jp/wiki/Yamashiro
+3210,Ise,Elite,Aviation Battleship,Sakura Empire,390,7243,373,31,275,0,https://azurlane.koumakan.jp/wiki/Ise
+3211,Hyuuga,Elite,Aviation Battleship,Sakura Empire,390,7243,373,31,275,0,https://azurlane.koumakan.jp/wiki/Hyuuga
+3222,Shouhou,Elite,Light Aircraft Carrier,Sakura Empire,0,4523,283,70,339,0,https://azurlane.koumakan.jp/wiki/Shouhou
+3226,Souryuu,Super Rare,Aircraft Carrier,Sakura Empire,0,5456,363,66,425,0,https://azurlane.koumakan.jp/wiki/Souryuu
+3227,Hiryuu,Super Rare,Aircraft Carrier,Sakura Empire,0,5678,361,66,426,0,https://azurlane.koumakan.jp/wiki/Hiryuu
+3233,Z1,Super Rare,Destroyer,Iron Blood,85,2218,229,191,0,490,https://azurlane.koumakan.jp/wiki/Z1
+3236,Z23,Super Rare,Destroyer,Iron Blood,170,2290,215,203,0,347,https://azurlane.koumakan.jp/wiki/Z23
+3239,Karlsruhe,Rare,Light Cruiser,Iron Blood,172,3612,349,122,0,318,https://azurlane.koumakan.jp/wiki/Karlsruhe
+3240,Köln,Rare,Light Cruiser,Iron Blood,172,3612,349,122,0,318,https://azurlane.koumakan.jp/wiki/K%C3%B6ln
+3241,Leipzig,Elite,Light Cruiser,Iron Blood,168,3735,387,117,0,325,https://azurlane.koumakan.jp/wiki/Leipzig
+3258,Ning Hai,Super Rare,Light Cruiser,Dragon Empery,201,2192,304,120,0,234,https://azurlane.koumakan.jp/wiki/Ning_Hai
+3259,Ping Hai,Super Rare,Light Cruiser,Dragon Empery,201,2160,272,118,0,234,https://azurlane.koumakan.jp/wiki/Ping_Hai
+3263,Bailey,Elite,Destroyer,Eagle Union,102,2036,262,204,0,320,https://azurlane.koumakan.jp/wiki/Bailey
+3269,Kamikaze,Elite,Destroyer,Sakura Empire,60,1726,179,243,0,414,https://azurlane.koumakan.jp/wiki/Kamikaze
+3270,Matsukaze,Elite,Destroyer,Sakura Empire,59,1726,171,239,0,414,https://azurlane.koumakan.jp/wiki/Matsukaze
+3271,Mutsuki,Rare,Destroyer,Sakura Empire,59,1652,173,243,0,462,https://azurlane.koumakan.jp/wiki/Mutsuki
+3272,Kisaragi,Rare,Destroyer,Sakura Empire,59,1652,173,243,0,462,https://azurlane.koumakan.jp/wiki/Kisaragi
+3301,Nicholas,Super Rare,Destroyer,Eagle Union,132,2280,233,200,0,356,https://azurlane.koumakan.jp/wiki/Nicholas
+3308,Sendai,Elite,Light Cruiser,Sakura Empire,170,2780,276,124,0,392,https://azurlane.koumakan.jp/wiki/Sendai
+3309,Jintsuu,Super Rare,Light Cruiser,Sakura Empire,176,2855,300,124,0,402,https://azurlane.koumakan.jp/wiki/Jintsuu
+3318,Hamakaze,Elite,Destroyer,Sakura Empire,75,2143,150,259,0,572,https://azurlane.koumakan.jp/wiki/Hamakaze
+3319,Tanikaze,Elite,Destroyer,Sakura Empire,75,2143,154,259,0,572,https://azurlane.koumakan.jp/wiki/Tanikaze
+3348,Forbin,Elite,Destroyer,Iris Libre,90,1437,168,251,0,439,https://azurlane.koumakan.jp/wiki/Forbin
+3349,Émile Bertin,Super Rare,Light Cruiser,Iris Libre,191,3425,327,134,0,298,https://azurlane.koumakan.jp/wiki/%C3%89mile_Bertin
+3351,Le Mars,Elite,Destroyer,Vichya Dominion,90,1437,183,251,0,439,https://azurlane.koumakan.jp/wiki/Le_Mars
+3361,Newcastle,Elite,Light Cruiser,Royal Navy,175,3928,387,115,0,285,https://azurlane.koumakan.jp/wiki/Newcastle
+3372,Curacoa,Elite,Light Cruiser,Royal Navy,174,3221,199,106,0,0,https://azurlane.koumakan.jp/wiki/Curacoa
+3373,Curlew,Elite,Light Cruiser,Royal Navy,168,3029,224,106,0,0,https://azurlane.koumakan.jp/wiki/Curlew
+3377,Independence,Super Rare,Light Aircraft Carrier,Eagle Union,0,5006,338,83,330,0,https://azurlane.koumakan.jp/wiki/Independence
+3424,Kasumi,Super Rare,Destroyer,Sakura Empire,75,2164,156,274,0,586,https://azurlane.koumakan.jp/wiki/Kasumi
+3434,Pamiat Merkuria,Super Rare,Light Cruiser,Northern Parliament,128,3300,195,100,0,162,https://azurlane.koumakan.jp/wiki/Pamiat_Merkuria
